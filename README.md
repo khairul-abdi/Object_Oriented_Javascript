@@ -4,7 +4,7 @@
 * Object Literal
 * 
 * 
-## [:open_file_folder: Traversy Media ]
+## :open_file_folder: Traversy Media 
 * ...
 * ...
 * 
