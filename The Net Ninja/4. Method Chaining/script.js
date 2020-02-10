@@ -17,7 +17,7 @@ class User {
 
   updateScore() {
     this.score++
-    console.log(`${this.email} score is ${this.score}`);
+    console.log(`${this.name}, score is now ${this.score}`);
     return this
   }
 }
