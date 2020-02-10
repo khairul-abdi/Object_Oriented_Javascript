@@ -20,6 +20,3 @@ class Calculator {
 
 const operation = new Calculator(0)
 console.log(operation.addition(5).subtraction(1).result);
-
-
-
