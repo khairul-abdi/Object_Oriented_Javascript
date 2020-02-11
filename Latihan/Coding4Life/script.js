@@ -12,7 +12,7 @@ class ComplaintRegistry {
     return registry.addComplaint({ id, customer, details });
   }
 
-  _uniqueIdGenerator() {
+  static _uniqueIdGenerator() {
     return ++currentId;
   }
 }
